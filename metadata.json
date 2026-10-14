@@ -1,0 +1,8 @@
+{
+  "name": "Remix Lịch cúp điện - FN",
+  "description": "Tra cứu lịch cúp điện 3 miền (EVNSPC, EVNCPC, EVNNPC) tích hợp bản đồ và tóm tắt AI thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
